@@ -1,0 +1,15 @@
+D:\PRO\BIN\Visual Studio\C#\wpfThreaSim2\wpfThreadSim3\bin\Debug\wpfThreadSim3.exe.config
+D:\PRO\BIN\Visual Studio\C#\wpfThreaSim2\wpfThreadSim3\bin\Debug\wpfThreadSim3.exe
+D:\PRO\BIN\Visual Studio\C#\wpfThreaSim2\wpfThreadSim3\bin\Debug\wpfThreadSim3.pdb
+D:\PRO\BIN\Visual Studio\C#\wpfThreaSim2\wpfThreadSim3\obj\Debug\wpfThreadSim3.csprojAssemblyReference.cache
+D:\PRO\BIN\Visual Studio\C#\wpfThreaSim2\wpfThreadSim3\obj\Debug\MainWindow.g.cs
+D:\PRO\BIN\Visual Studio\C#\wpfThreaSim2\wpfThreadSim3\obj\Debug\App.g.cs
+D:\PRO\BIN\Visual Studio\C#\wpfThreaSim2\wpfThreadSim3\obj\Debug\wpfThreadSim3_MarkupCompile.cache
+D:\PRO\BIN\Visual Studio\C#\wpfThreaSim2\wpfThreadSim3\obj\Debug\wpfThreadSim3_MarkupCompile.lref
+D:\PRO\BIN\Visual Studio\C#\wpfThreaSim2\wpfThreadSim3\obj\Debug\MainWindow.baml
+D:\PRO\BIN\Visual Studio\C#\wpfThreaSim2\wpfThreadSim3\obj\Debug\wpfThreadSim3.g.resources
+D:\PRO\BIN\Visual Studio\C#\wpfThreaSim2\wpfThreadSim3\obj\Debug\wpfThreadSim3.Properties.Resources.resources
+D:\PRO\BIN\Visual Studio\C#\wpfThreaSim2\wpfThreadSim3\obj\Debug\wpfThreadSim3.csproj.GenerateResource.cache
+D:\PRO\BIN\Visual Studio\C#\wpfThreaSim2\wpfThreadSim3\obj\Debug\wpfThreadSim3.csproj.CoreCompileInputs.cache
+D:\PRO\BIN\Visual Studio\C#\wpfThreaSim2\wpfThreadSim3\obj\Debug\wpfThreadSim3.exe
+D:\PRO\BIN\Visual Studio\C#\wpfThreaSim2\wpfThreadSim3\obj\Debug\wpfThreadSim3.pdb

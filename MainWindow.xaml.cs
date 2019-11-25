@@ -25,7 +25,6 @@ namespace wpfThreadSim3
         Thread thread1, thread2;
 
         #endregion
-
         #region Main Method
         public MainWindow()
         {
